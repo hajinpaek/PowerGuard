@@ -1,5 +1,5 @@
 
-# Small Cell Base Station Demo
+# PowerGuard: Small Cell Base Station Demo
 
 This project is a basic simulation of a small cell base station, showcasing how user devices connect, manage network capacity, and backhaul connections. This demo is useful for understanding the principles behind small cell technology in mobile networks.
 
