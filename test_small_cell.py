@@ -1,6 +1,6 @@
 import unittest
-from src.small_cell import SmallCell
-from src.user_device import UserDevice
+from main.small_cell import SmallCell
+from main.user_device import UserDevice
 
 class TestSmallCell(unittest.TestCase):
     def test_connect_user(self):
