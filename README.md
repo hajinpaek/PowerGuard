@@ -72,7 +72,7 @@ Connected users: 1/10
 
 ## Tests
 
-To run the unit tests, navigate to the `tests/` directory and execute the following command:
+To run the unit tests, execute the following command:
 
 ```bash
 python3 test_small_cell.py
