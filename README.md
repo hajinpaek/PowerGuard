@@ -14,7 +14,7 @@ This project is a basic simulation of a small cell base station, showcasing how 
 ```
 small-cell-base-station-demo/
 │
-├── src/
+├── main/
 │   ├── small_cell.py         # Small cell base station logic
 │   ├── user_device.py        # User device logic
 │   ├── backhaul.py           # Backhaul connection logic
