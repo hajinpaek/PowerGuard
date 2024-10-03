@@ -18,9 +18,7 @@ small-cell-base-station-demo/
 │   ├── small_cell.py         # Small cell base station logic
 │   ├── user_device.py        # User device logic
 │   ├── backhaul.py           # Backhaul connection logic
-│   └── main.py               # Main simulation script
-│
-├── tests/
+│   ├── main.py               # Main simulation script
 │   └── test_small_cell.py    # Unit tests for small cell functionality
 │
 ├── README.md                 # Project documentation
