@@ -43,9 +43,9 @@ small-cell-base-station-demo/
 
 ## How to Run the Simulation
 
-1. Navigate to the `src/` directory:
+1. Navigate to the `main/` directory:
    ```bash
-   cd src
+   cd main
    ```
 
 2. Run the main simulation script:
