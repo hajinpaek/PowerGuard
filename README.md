@@ -34,7 +34,7 @@ small-cell-base-station-demo/
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/PowerGuard.git
+   git clone https://github.com/hajinpaek/PowerGuard.git
    ```
 2. Navigate into the project directory:
    ```bash
